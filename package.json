@@ -16,12 +16,14 @@
   },
   "dependencies": {
     "@mdx-js/react": "^3.0.1",
+    "@million/lint": "^0.0.73",
     "gatsby": "^5.13.3",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-mdx": "^5.13.1",
     "gatsby-plugin-sharp": "^5.13.1",
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
+    "million": "^3.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
